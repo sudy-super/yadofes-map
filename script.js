@@ -1,5 +1,3 @@
-import { inject } from "@vercel/analytics"
-
 document.addEventListener('DOMContentLoaded', () => {
     const mapContainer = document.getElementById('mapContainer');
     const eventMapImage = document.getElementById('eventMap');
