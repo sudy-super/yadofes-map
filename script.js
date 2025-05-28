@@ -1,3 +1,5 @@
+import { Analytics } from "@vercel/analytics/next"
+
 document.addEventListener('DOMContentLoaded', () => {
     const mapContainer = document.getElementById('mapContainer');
     const eventMapImage = document.getElementById('eventMap');
