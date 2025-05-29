@@ -41,6 +41,7 @@ span.title-line.subtitle-line {
 .map-wrapper {
     width: 100%;
     overflow-x: auto;
+    text-align: center;
 }
 
 .map-container {
