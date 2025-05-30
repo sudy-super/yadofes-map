@@ -130,6 +130,7 @@ svg.event-map-svg-overlay text.shop-polygon-label {
     opacity: 0; 
     transform: scale(0.95);
     visibility: hidden; 
+    text-align: left;
 }
 
 .shop-info-popup.visible {
@@ -172,6 +173,7 @@ svg.event-map-svg-overlay text.shop-polygon-label {
 .shop-info-popup-content .shop-details-block {
     padding: 10px; margin-bottom: 10px; border-radius: 4px;
     background-color: #f9f9f9; border: 1px solid #efefef;
+    text-align: left;
 }
 .shop-info-popup-content .shop-details-block:last-child { margin-bottom: 0; }
 .shop-info-popup-content h3 {
